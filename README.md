@@ -1,1 +1,2 @@
 # NBA-MVP-MachineLearning
+This is a project that I did that attempted to predict the next NBA MVP based on data from previous seasons. It consisted of web-scraping, cleaning, and creating the machine learning model that used both linear regression and the RandomForest scykit learn package in python. I used the channel Dataquest on youtube to walk me through the project and create it myself in a Jupyter Notebook.
